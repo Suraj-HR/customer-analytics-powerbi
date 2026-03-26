@@ -31,3 +31,14 @@ This project analyzes customer behavior, revenue performance, and business trend
 
 ## 🚀 Outcome
 This project demonstrates an end-to-end analytics workflow — from SQL-based data preparation to Power BI dashboard development and business storytelling.
+
+## 📸 Dashboard Preview
+
+### 🏠 Home Page
+![Home Dashboard](home-dashboard.png)
+
+### 👥 Customer Analysis
+![Customer Analysis](customer-analysis.png)
+
+### 📊 Business Performance
+![Business Performance](business-performance.png)
